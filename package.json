@@ -19,5 +19,8 @@
   "homepage": "https://github.com/AnandChowdhary/github-api-proxy#readme",
   "dependencies": {
     "axios": "^0.20.0"
+  },
+  "devDependencies": {
+    "@now/node": "^1.8.1"
   }
 }
