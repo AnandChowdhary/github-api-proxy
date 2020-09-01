@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/AnandChowdhary/github-api-proxy/issues"
   },
-  "homepage": "https://github.com/AnandChowdhary/github-api-proxy#readme"
+  "homepage": "https://github.com/AnandChowdhary/github-api-proxy#readme",
+  "dependencies": {
+    "axios": "^0.20.0"
+  }
 }
